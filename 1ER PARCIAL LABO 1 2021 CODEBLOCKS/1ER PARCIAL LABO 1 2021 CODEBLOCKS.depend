@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1620918338 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\servicio.c
+	"servicio.h"
+	"seoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1621514364 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\trabajo.c
+	"trabajo.h"
+	"seoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1621521221 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\seoane.c
+	"Seoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1621521133 e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\seoane.h
+
+1621514380 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\fecha.c
+	"fecha.h"
+	"seoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1621483782 e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\fecha.h
+
+1620918338 e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\servicio.h
+
+1621513536 e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\trabajo.h
+
+1621521133 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajoServicio.h"
+	"seoane.h"
+
+1621520632 e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\trabajoservicio.h
+	"trabajo.h"
+	"servicio.h"
+	"fecha.h"
+	"bicicleta.h"
+
+1621521174 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\trabajoservicio.c
+	"trabajoServicio.h"
+	"seoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1621513536 e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\bicicleta.h
+
+1621513536 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\1er parcial labo 1 2021 codeblocks\bicicleta.c
+	"bicicleta.h"
+	"seoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
